@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>loading.gif</file>
+    <file>splash.jpg</file>
+    <file>img.jpg</file>
+    <file>splash.jpg</file>
+    <file>bk.jpg</file>
+    <file>frame.png</file>
+    <file>icon5g.png</file>
+  </qresource>
+</RCC>
